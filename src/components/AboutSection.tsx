@@ -6,10 +6,10 @@ export default function AboutSection() {
       </header>
       <section className="about-text">
         <p>
-          I&apos;m a dedicated Frontend Developer with a solid foundation in technical expertise and 3 years of hands-on experience in the field. My passion for creating seamless user experiences drives my commitment to delivering high-quality software solutions.
+          I&apos;m a dedicated Frontend Developer with a solid foundation in technical expertise and 4 years of hands-on experience in the field. My passion for creating seamless user experiences drives my commitment to delivering high-quality software solutions.
         </p>
         <p>
-          My focus lies in building functional sites with user-experience, speed and developer experience at the core. I achieve this with my proficiency in Javascript coupled with deep understanding of related frameworks such as React, VueJs for the frontend, and NodeJs/NestJs for the backend. I also have a good understanding of Python. While developing mastery in Frontend, I am currently honing my skills in Django(python framework) as well.
+          My focus lies in building functional sites with user-experience, speed and developer experience at the core. I achieve this with my proficiency in Javascript coupled with deep understanding of related frameworks such as React, VueJs for the frontend, and NodeJs/NestJs, Python/Django for the backend. I also have a good understanding of DevOps. While developing high mastery in Frontend, I am currently honing my skills in GoLang as well.
         </p>
       </section>
       <section className="service">
