@@ -1,0 +1,114 @@
+{
+  "experience": [
+    {
+      "title": "Front End Developer at Active One technologies",
+      "period": "03/2025 - 05/2026",
+      "highlights": [
+        "Led the development of an AI-assisted technical assessment platform designed to evaluate and benchmark modern AI-augmented coding workflows for developers and hiring teams.",
+        "Engineered a smart university information platform that aggregates, verifies, and distributes real-time academic updates, announcements, and institutional resources for students.",
+        "Built a biometric and QR-enabled attendance management system with real-time software-to-hardware communication, offline synchronization, and mobile-based verification workflows.",
+        "Developed scalable backend systems, authentication services, and deployment infrastructure for production-grade B2B and consumer-facing applications.",
+        "Contributed across architecture, infrastructure, frontend, backend, and deployment using technologies including Go, React Native, Next.js, and Docker."
+      ]
+    },
+    {
+      "title": "Software Engineer | LLMTrainer at Turing",
+      "period": "08/2024 - 12/2024",
+      "highlights": [
+        "Conducted in-depth LLM (Large Language Model) training focused on Python and React development tasks, contributing to enhanced model performance, reasoning accuracy, and code generation quality.",
+        "Applied techniques such as Reinforcement Learning from Human Feedback (RLHF), Supervised Fine-Tuning (SFT), and prompt engineering to align model outputs with developer expectations and real-world coding patterns.",
+        "Executed rigorous code reviews and model output verification, ensuring adherence to modern programming standards, best practices, and bug-free logic across diverse project scenarios.",
+        "Provided detailed feedback and edge-case evaluations to fine-tune model behavior and response accuracy across real-world coding challenges.",
+        "Improved the clarity and consistency of user-assistant interactions, leading to a more intuitive and trustworthy developer experience.",
+        "Collaborated with cross-functional teams to align training outputs with evolving product goals and quality benchmarks."
+      ]
+    },
+    {
+      "title": "Lead Frontend Engineer at Hardcore Biometric Systems",
+      "period": "10/2021 - 08/2024",
+      "highlights": [
+        "Led the transition of five mission-critical applications used by a national law enforcement agency to a Micro Frontend architecture, improving modularity, scalability, and reuse across applications serving millions of users.",
+        "Championed the rewrite of a complex legacy frontend supporting high-volume, real-time operational workflows, achieving major performance and scalability improvements and reducing production bugs by over 90%.",
+        "Decomposed a tightly coupled frontend into independently deployable modules, enabling parallel development, lowering release risk, and improving long-term maintainability.",
+        "Designed and implemented event-driven frontend integrations, consuming real-time event streams to keep user interfaces synchronized with backend state and time-sensitive operations.",
+        "Collaborated closely with backend engineers integrating Java-based services and APIs, defining event contracts, data models, and interface boundaries for reliable distributed communication.",
+        "Built and maintained enterprise content management capabilities, including advanced canvas manipulation, structured content ingestion, content digest generation, and rendering pipelines for large-scale operational data.",
+        "Influenced UI and UX architecture by establishing reusable component patterns, improving accessibility, responsiveness, and visual consistency across multiple applications.",
+        "Implemented automated testing using Jest, Vitest, and Cypress, increasing release confidence and frontend reliability at national scale.",
+        "Managed feature releases, patches, and hotfixes through CI/CD pipelines, using versioned deployment strategies to support safe rollouts and rapid rollback.",
+        "Facilitated agile ceremonies including sprint planning, daily stand-ups, and retrospectives, improving delivery consistency and team throughput across distributed teams.",
+        "Conducted in-depth code reviews and applied secure coding standards, contributing to security-focused reviews for critical public-sector systems.",
+        "Used Bitbucket, Jira, Confluence, and other Atlassian tools to manage source control, documentation, issue tracking, and cross-team collaboration.",
+        "Mentored interns and junior engineers, providing guidance on frontend architecture, best practices, and professional development."
+      ]
+    },
+    {
+      "title": "Software Engineer at Tribesquare, Inc",
+      "period": "05/2021 - 09/2021",
+      "highlights": [
+        "Developed and maintained responsive web applications using React, Typescript, ES6+, HTML5, CSS3 and python(Django).",
+        "Converted UI and UX designs from Figma and into reusable and accessible frontend components.",
+        "Implemented payment gateways and third-party services using Stripe, Paystack, REST APIs, and Axios.",
+        "Implemented interactive UI features using HTML5 Canvas and scroll-based animations with AOS and CSS.",
+        "Integrated Google Analytics tools for user behavior insights.",
+        "Collaborated with cross-functional teams using Git, GitHub, and Agile Scrum workflows.",
+        "Restructured and further advanced existing database structure, and redeploy to boost database performance."
+      ]
+    },
+    {
+      "title": "Full Stack Developer at DEDA Hospital",
+      "period": "07/2020 - 02/2021",
+      "highlights": [
+        "Developed and maintained frontend web applications using Vue.js, JavaScript (ES6+), HTML5, CSS3, and Python delivering responsive interfaces for Health Management Systems (HMS).",
+        "Integrated healthcare-related third-party services including HL7/FHIR-based APIs, Stripe, Paystack, and SMS/Email gateway (SendGrid) to support payments, notifications, and patient communications.",
+        "Implemented RESTful APIs, enabling patient records, appointments, billing, and reporting workflows.",
+        "Implemented frontend integration practices aligned with health data security and compliance standards, including secure authentication flows, role-based access (RBAC), and protected data handling.",
+        "Enhanced the codebase through refactoring, performance optimization, and UI improvements to ensure reliability, maintainability, and a smooth user experience in clinical environments.",
+        "Dockerized deployments in kubernetes environment.",
+        "Developed and organised HMS datasets using SQLAlchemy ORM and postgres database."
+      ]
+    },
+    {
+      "title": "Frontend Developer at TIIDELAB Initiative",
+      "period": "08/2020 - 01/2021",
+      "highlights": [
+        "Learned and applied core frontend development concepts using React, JavaScript (ES6), HTML5, and CSS3.",
+        "Developed foundational skills in component-based architecture, state management, and UI structuring under mentorship.",
+        "Built responsive user interfaces from Figma designs, strengthening attention to detail and usability.",
+        "Integrated basic REST APIs using Axios, improving understanding of frontend-backend data flow.",
+        "Wrote introductory tests using Jest and React Testing Library to practice debugging and code quality.",
+        "Demonstrated leadership and initiative by supporting peers, taking ownership of small tasks, and contributing ideas during team sessions.",
+        "Improved presentation and public speaking skills by explaining features, demoing work, and participating in team reviews and stand-ups.",
+        "Strengthened soft skills including communication, collaboration, time management, and adaptability within an agile environment."
+      ]
+    }
+  ],
+  "skills": [
+    "React.js",
+    "Typescript",
+    "Micro frontend Architecture",
+    "HTML5",
+    "CSS3",
+    "Rest APIs",
+    "Real-time event handling",
+    "React Hooks",
+    "Context APIs",
+    "HTML5 Canvas",
+    "Jest",
+    "Vitest",
+    "Cypress",
+    "CI/CD pipelines",
+    "Git",
+    "Jira",
+    "Github",
+    "Devtools",
+    "Python",
+    "Django",
+    "FastAPI",
+    "Postgres",
+    "Microservices",
+    "Bitbucket",
+    "LLMs",
+    "AI integrations"
+  ]
+}
